@@ -1,0 +1,22 @@
+{
+  "name": "explore",
+  "version": "1.0.0",
+  "description": "landing page for explore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camianderson/Explore.git"
+  },
+  "author": "Cami Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camianderson/Explore/issues"
+  },
+  "homepage": "https://github.com/camianderson/Explore#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
